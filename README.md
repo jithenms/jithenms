@@ -1,7 +1,5 @@
 ### Hi there! 👋 I'm Jithen! 🚀
 
-💡 Passionate about Computer Science, Software Engineering, and Startups.
-
 📚 Current High School Senior.
 
 💼 Previous SWE at NAX Group and Nirvana Money
