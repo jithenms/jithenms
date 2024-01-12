@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Jithen! 🚀
+### Hi there, I'm Jithen! 👋
 
 📚 Current High School Senior.
 
