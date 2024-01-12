@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋 I'm Jithen! 🚀
 
-<!--
-**jithenms/jithenms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about Computer Science, Software Engineering, and Startups.
 
-Here are some ideas to get you started:
+📚 Current High School Senior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Previous SWE at NAX Group and Nirvana Money
+
+📫 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/jithenms/) or [Twitter](https://twitter.com/jithenshriyan/).
+
+Happy coding! 😊
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jithenms)](https://github.com/LordDashMe/github-contribution-stats/)
