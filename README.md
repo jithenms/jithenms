@@ -1,5 +1,5 @@
 ### Hi there, I'm Jithen! 👋
 
-📚 Current High School Senior
+📚 Incoming Freshman at the University of Florida studying Computer Science
 
 💼 Previous SWE at NAX Group and Nirvana Money
